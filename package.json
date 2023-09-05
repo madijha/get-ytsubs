@@ -4,7 +4,7 @@
   "description": "backend project to get youtube subs based on different parameters",
   "main": "index.js",
   "scripts": {
-    "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
+   "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
   },
   "keywords": [
     "npm",
