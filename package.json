@@ -16,15 +16,9 @@
   "author": "Aditya Kumar Jha",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
+    "express": "^4.17.1",
     "mochawesome": "^7.1.3",
-    "mongoose": "^5.10.15",
-    "nodemon": "^3.0.1"
-  },
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
-    "mocha": "^10.2.0"
+    "mongoose": "^5.13.15",
+    "nodemon": "^2.0.20"
   }
 }
