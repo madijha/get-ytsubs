@@ -2,7 +2,7 @@
 
 Get Youtube Subscribers.
 
-A simple backend project to get YouTube Subscribers, and contains a RESTful API for getting information about YouTube channel subscribers, developed with Node.js and Express, and the database used for managing the subscriber data is MongoDB Atlas. Subscriber's data consists of fields such as their ID, Names, and Subscribed Channels.
+A simple backend project to get YouTube Subscribers, with RESTful API for getting information about YouTube channel subscribers, developed with Node.js and Express, and the database used for managing the subscriber data is MongoDB Atlas. 
 
 The API has several endpoints that let users get data in JSON format, such as an endpoint that returns a list of all subscribers, an endpoint that returns a list of names and subscribed channels for each subscriber, and an endpoint that returns information about a subscriber based on their ID.
 
@@ -24,10 +24,10 @@ Dependencies:-
 express
 mongoose
 nodemon (optional)
-
+mochawesome
 Deployment:-
 
-Render platform is used for deployment. It's a free web services platform.
+Cyclic platform is used for deployment. It's a free web services platform.
 
 
-Web Deployment : 
+Web Deployment : https://relieved-puce-pangolin.cyclic.app/
