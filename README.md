@@ -1,12 +1,10 @@
-#AlmaBetter Backend Project
-
-Get Youtube Subscribers.
+# Almabetter Backend Capstone Project - Get YouTube Subscribers
 
 A simple backend project to get YouTube Subscribers, with RESTful API for getting information about YouTube channel subscribers, developed with Node.js and Express, and the database used for managing the subscriber data is MongoDB Atlas. 
 
 The API has several endpoints that let users get data in JSON format, such as an endpoint that returns a list of all subscribers, an endpoint that returns a list of names and subscribed channels for each subscriber, and an endpoint that returns information about a subscriber based on their ID.
 
-API Endpoints:-
+# API Endpoints:-
 
 "/ " --> This default route will render the "index.html file" when the app launches. http://localhost:3000/
 
@@ -19,15 +17,18 @@ API Endpoints:-
 
 You'll need to have Node.js and MongoDB installed on your local machine in order to begin working on the project. Once installed, Clone this repository to your local machine. Install the required dependencies and start the server by nodemon or node index.js
 
-Dependencies:-
+# Dependencies:-
 
 express
 mongoose
 nodemon (optional)
 mochawesome
-Deployment:-
+
+# Deployment:-
 
 Cyclic platform is used for deployment. It's a free web services platform.
 
 
-Web Deployment : https://relieved-puce-pangolin.cyclic.app/
+# Web link:- 
+
+https://relieved-puce-pangolin.cyclic.app/
