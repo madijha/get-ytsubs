@@ -1,19 +1,12 @@
 {
-  "name": "youtube-subs",
+  "name": "node-server-testing",
   "version": "1.0.0",
-  "description": "backend project to get youtube subs based on different parameters",
+  "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
+    "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
   },
-  "keywords": [
-    "npm",
-    "node",
-    "express",
-    "mongodb",
-    "mongoose"
-  ],
-  "author": "Aditya Kumar Jha",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
