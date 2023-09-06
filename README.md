@@ -20,8 +20,11 @@ You'll need to have Node.js and MongoDB installed on your local machine in order
 # Dependencies:-
 
 express
+
 mongoose
+
 nodemon (optional)
+
 mochawesome
 
 # Deployment:-
